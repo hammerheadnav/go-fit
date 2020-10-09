@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tormoder/fit"
+	"github.com/hammerheadnav/go-fit"
 )
 
 func TestDecodeEncodeDecode(t *testing.T) {

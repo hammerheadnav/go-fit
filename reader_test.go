@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/tormoder/fit"
+	"github.com/hammerheadnav/go-fit"
 )
 
 var (

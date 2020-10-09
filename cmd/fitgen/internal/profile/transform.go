@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tormoder/fit/internal/types"
+	"github.com/hammerheadnav/go-fit/internal/types"
 )
 
 var camelRegex = regexp.MustCompile("[0-9A-Za-z]+")
