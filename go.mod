@@ -1,4 +1,4 @@
-module github.com/tormoder/fit
+module github.com/hammerheadnav/go-fit
 
 go 1.15
 
